@@ -6,7 +6,7 @@ sistem-informasi-manajemen-kos
 
 <br>
 
-<img src="assets/logo.png" width="125" alt="Logo Kelompok 7">
+<img src="assets/logo.png" width="125" alt="logo.png">
 
 <h1>SISTEM INFORMASI MANAJEMEN KOS</h1>
 
