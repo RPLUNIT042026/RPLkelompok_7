@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" width="110">
+<img src="logo.png" width="110">
 
 # ✦ PROJECT PROFILE ✦
 
@@ -204,7 +204,7 @@ Oleh karena itu, diperlukan sistem informasi yang dapat membantu meningkatkan ef
 
 <div align="center">
 
-<img src="assets/logo.png" width="85">
+<img src="logo.png" width="85">
 
 ### DEVELOP • COLLABORATE • INNOVATE
 
