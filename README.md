@@ -146,7 +146,7 @@ Proyek ini dikembangkan oleh Kelompok 7 sebagai bagian dari mata kuliah Rekayasa
 
 <br>
 
-<img src="assets/logo.png" width="75" alt="Logo Kelompok 7">
+<img src="logo.png" width="75" alt="Logo Kelompok 7">
 
 ### MORE THAN JUST A TEAM
 
