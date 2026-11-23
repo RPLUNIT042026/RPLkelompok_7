@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" width="110">
+<img src="logo.png" width="110">
 
 # ✦ PROJECT CHARTER ✦
 
@@ -241,7 +241,7 @@ Dengan adanya dokumen ini, setiap anggota diharapkan memahami tujuan, ruang ling
 
 <div align="center">
 
-<img src="assets/logo.png" width="100">
+<img src="logo.png" width="100">
 
 ### ONE TEAM. ONE PROJECT. ONE VISION.
 
